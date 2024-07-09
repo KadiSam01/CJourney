@@ -9,6 +9,5 @@ int main(){
     char single = 'a';
     char test[] = "single";
     printf("The value of the character is %c\n", single);
-
     
 }
