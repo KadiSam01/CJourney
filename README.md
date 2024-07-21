@@ -1,6 +1,6 @@
 # Learning C Programming
 
-This repository is my journey to understanding the C programming language.
+This repository is my journey to understanding the C programming language. Please head to the main branch
 
 ## Contents
 
